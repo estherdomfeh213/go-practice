@@ -13,3 +13,7 @@ func main()
 { 
 	fmt.Println("Hello")
 }
+
+
+
+// rule to remember: only one func main() per folder
