@@ -17,3 +17,4 @@ func main()
 
 
 // rule to remember: only one func main() per folder
+// To run muiltiple main functions, you need to put them in different folders.
